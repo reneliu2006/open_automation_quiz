@@ -1,0 +1,33 @@
+2020-03-19 12:34:47,161 INFO [com.cucu.core.BrowserEmulator] - Using Chrome
+2020-03-19 12:34:53,329 INFO [com.cucu.core.BrowserEmulator] - Started BrowserEmulator
+2020-03-19 12:34:58,861 INFO [com.cucu.core.BrowserEmulator] - ScreenShot savepath.\target\screenshot\page1.2020.03.19.png
+2020-03-19 12:34:59,692 INFO [com.cucu.core.BrowserEmulator] - ScreenShot savepath.\target\screenshot\page2.2020.03.19.png
+2020-03-19 12:35:02,132 INFO [com.cucu.core.BrowserEmulator] - ScreenShot savepath.\target\screenshot\page3.2020.03.19.png
+2020-03-19 12:35:06,603 INFO [com.cucu.core.BrowserEmulator] - Using Chrome
+2020-03-19 12:35:12,512 INFO [com.cucu.core.BrowserEmulator] - Started BrowserEmulator
+2020-03-19 13:19:27,768 INFO [com.cucu.core.BrowserEmulator] - Using Chrome
+2020-03-19 13:19:33,991 INFO [com.cucu.core.BrowserEmulator] - Started BrowserEmulator
+2020-03-19 13:21:16,408 INFO [com.cucu.core.BrowserEmulator] - Using Chrome
+2020-03-19 13:21:22,407 INFO [com.cucu.core.BrowserEmulator] - Started BrowserEmulator
+2020-03-19 13:21:23,554 INFO [com.cucu.core.BrowserEmulator] - 结果列表:
+2020-03-19 13:21:23,595 INFO [com.cucu.core.BrowserEmulator] - http://e.so.com/search/eclk?p=9011jqLyaZE8JlRHnE7XesquGetf221KVeHihR1Rv8kMvrLPl_a38LkjQl0ecES57Mxznpe0qO4G_ScJ-HXHiZ94uU0QY-K6J8H-jNgj3FQColzFEdBUWUy1czGC9QPZRvWEw90hGiuJhgCfYgc4919JiQlxRLKrrLeYcqWLCuTQ2FQzIUHjogsHYev4TiqAsQMZ36bP6P3BUvSu9esDxgG4Q6sndYzWRFcmgL2-8QWkGSIpOqEyGiZVoXzcO06sHFWSJIzQjgzyKjz4yDts-5K-COF6rwwVbpCR54EnJw7hduRDp-bdJl2I0U7OY81Qu-Ohlp1qh_HNfsEYUXyKP1lcUAQqsNyUr0obOxSKl0tw9RRi1ZSxa2azD32h-09IsLIfhru7d9P6Aul4MsuiLCMFg1PeKogZ0AEevh1cqQHTbl2y6Y81FigGWatCr4oAKYeHG8oWrBjtq5aiMM-QPqhz-87zIF0DaK8mDTgmnNOOcJyJWmTprXBySs-G3tLuKch93fm87JZZWCRbtWqV6VBovw2E2ac67MKfPBtcJuxlxeBg_Nd8YOerYqtKUDix8ivMV4izJDy4fTULNQ&ns=0&v=2&at=5om-AWJpbmcCLOS4iumYv-mHjOW3tOW3tA&aurl=aHR0cHM6Ly9wNHBzZWFyY2guMTY4OC5jb20vcDRwMTE0L3A0cHNlYXJjaC9vZmZlcjIuaHRtP2tleXdvcmRzPWJpbmcmY29zaXRlPTM2MGpqJkxPQ0FUSU9OPWxhbmRpbmdfdDQmdHJhY2tpZD04ODU2ODg0MjI5MjMyNzQ2NTIwOTU0MCZrZXl3b3JkaWQ9Mjg0NTE1ODMxMDYmRk9STUFUPW5vcm1hbA&sig=1c61&bt=1-->找bing,上阿里巴巴
+2020-03-19 13:21:23,608 INFO [com.cucu.core.BrowserEmulator] - http://www.bing.com/?mkt=zh-CN-->微软 Bing 搜索 - 国内版
+2020-03-19 13:21:23,621 INFO [com.cucu.core.BrowserEmulator] - http://www.bing.com/Translator-->Bing Translator
+2020-03-19 13:21:23,633 INFO [com.cucu.core.BrowserEmulator] - https://cn.bing.com/?ensearch=1-->微软 Bing 搜索 - 国际版
+2020-03-19 13:21:23,645 INFO [com.cucu.core.BrowserEmulator] - https://baike.baidu.com/item/bing/5994319-->bing（搜索引擎）_百度百科
+2020-03-19 13:21:23,658 INFO [com.cucu.core.BrowserEmulator] - https://cn.bing.com/?setmkt=de-de&setlang=de-de-->Bing
+2020-03-19 13:21:23,670 INFO [com.cucu.core.BrowserEmulator] - https://baike.baidu.com/item/%E5%BF%85%E5%BA%94-->必应_百度百科
+2020-03-19 13:21:23,683 INFO [com.cucu.core.BrowserEmulator] - https://cn.bing.com/dict/?mkt=zh-cn-->Bing 词典
+2020-03-19 13:21:23,696 INFO [com.cucu.core.BrowserEmulator] - https://bing.ioliu.cn/-->必应每日高清壁纸 - 精彩，从这里开始
+2020-03-19 13:21:23,708 INFO [com.cucu.core.BrowserEmulator] - https://www.zhihu.com/question/37597241-->微软壁纸（Bing壁纸）停止服务了吗？ - 知乎
+2020-03-19 13:21:23,720 INFO [com.cucu.core.BrowserEmulator] - https://www.msn.com/-->MSN | Outlook, Office, Skype, Bing, Breaking News, …
+2020-03-19 13:21:23,733 INFO [com.cucu.core.BrowserEmulator] - http://e.so.com/search/eclk?p=9011jqLyaZE8JlRHnE7XesquGetf221KVeHihR1Rv8kMvrLPl_a38LkjQl0ecES57Mxznpe0qO4G_ScJ-HXHiZ94uU0QY-K6J8H-jNgj3FQColzFEdBUWUy1czGC9QPZRvWEw90hGiuJhgCfYgc4919JiQlxRLKrrLeYcqWLCuTQ2FQzIUHjogsHYev4TiqAsQMZ36bP6P3BUvSu9esDxgG4Q6sndYzWRFcmgL2-8QWkGSIpOqEyGiZVoXzcO06sHFWSJIzQjgzyKjz4yDts-5K-COF6rwwVbpCR54EnJw7hduRDp-bdJl2I0U7OY81Qu-Ohlp1qh_HNfsEYUXyKP1lcUAQqsNyUr0obOxSKl0tw9RRi1ZSxa2azD32h-09IsLIfhru7d9P6Aul4MsuiLCMFg1PeKogZ0AEevh1cqQHTbl2y6Y81FigGWatCr4oAKYeHG8oWrBjtq5aiMM-QPqhz-87zIF0DaK8mDTgmnNOOcJyJWmTprXBySs-G3tLuKch93fm87JZZWCRbtWqV6VBovw2E2ac67MKfPBtcJuxlxeBg_Nd8YOerYqtKUDix8ivMV4izJDy4fTULNQ&ns=0&v=2&at=5om-AWJpbmcCLOS4iumYv-mHjOW3tOW3tA&aurl=aHR0cHM6Ly9wNHBzZWFyY2guMTY4OC5jb20vcDRwMTE0L3A0cHNlYXJjaC9vZmZlcjIuaHRtP2tleXdvcmRzPWJpbmcmY29zaXRlPTM2MGpqJkxPQ0FUSU9OPWxhbmRpbmdfdDQmdHJhY2tpZD04ODU2ODg0MjI5MjMyNzQ2NTIwOTU0MCZrZXl3b3JkaWQ9Mjg0NTE1ODMxMDYmRk9STUFUPW5vcm1hbA&sig=1c61&bt=1-->找bing,上阿里巴巴
+2020-03-19 13:21:23,745 INFO [com.cucu.core.BrowserEmulator] - https://cn.bing.com/videos/search?q=bing&qpvt=bing&FORM=VDRE-->bing 的视频
+2020-03-19 13:21:23,746 INFO [com.cucu.core.BrowserEmulator] - 结果统计:
+2020-03-19 13:21:23,746 INFO [com.cucu.core.BrowserEmulator] - www.bing.com-->2
+2020-03-19 13:21:23,746 INFO [com.cucu.core.BrowserEmulator] - cn.bing.com-->4
+2020-03-19 13:21:23,746 INFO [com.cucu.core.BrowserEmulator] - baike.baidu.com-->2
+2020-03-19 13:21:23,746 INFO [com.cucu.core.BrowserEmulator] - www.zhihu.com-->1
+2020-03-19 13:21:23,746 INFO [com.cucu.core.BrowserEmulator] - www.msn.com-->1
+2020-03-19 13:21:23,746 INFO [com.cucu.core.BrowserEmulator] - e.so.com-->2
+2020-03-19 13:21:23,746 INFO [com.cucu.core.BrowserEmulator] - bing.ioliu.cn-->1
