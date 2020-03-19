@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" parallel="tests" verbose="10" name="demo" annotations="JDK" time-out="1800000">
+    <test name="cucu" junit="false" annotations="JDK">
+        <parameter name="crmdata"  value="data/crm_offline.ini"/>
+		    <classes>
+		      <class name="com.cucu.run.Runner"/>
+		      <class name="cn.ianzhang.automation.SearchBingTest"/>
+		      <class name="cn.ianzhang.automation.AppAutoTest"/>
+		    </classes>
+  </test>
+</suite>

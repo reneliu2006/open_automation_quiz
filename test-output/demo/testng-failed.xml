@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" guice-stage="DEVELOPMENT" verbose="10" name="Failed suite [demo]" parallel="tests">
+  <parameter name="crmdata" value="data/crm_offline.ini"/>
+  <test name="cucu">
+    <parameter name="crmdata" value="data/crm_offline.ini"/>
+    <classes>
+      <class name="com.cucu.run.Runner"/>
+      <class name="cn.ianzhang.automation.SearchBingTest"/>
+      <class name="cn.ianzhang.automation.AppAutoTest"/>
+    </classes>
+  </test> <!-- cucu -->
+  <test name="cucu(failed)" parallel="tests">
+    <parameter name="crmdata" value="data/crm_offline.ini"/>
+    <classes>
+      <class name="cn.ianzhang.automation.SearchBingTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- cn.ianzhang.automation.SearchBingTest -->
+      <class name="com.cucu.run.Runner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- com.cucu.run.Runner -->
+      <class name="cn.ianzhang.automation.AppAutoTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="appAuto"/>
+        </methods>
+      </class> <!-- cn.ianzhang.automation.AppAutoTest -->
+    </classes>
+  </test> <!-- cucu(failed) -->
+</suite> <!-- Failed suite [demo] -->
